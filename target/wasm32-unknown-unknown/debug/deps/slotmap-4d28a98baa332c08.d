@@ -1,0 +1,12 @@
+E:\coding\rust\phase\target\wasm32-unknown-unknown\debug\deps\slotmap-4d28a98baa332c08.rmeta: C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\lib.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\basic.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\dense.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\hop.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\secondary.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\sparse_secondary.rs
+
+E:\coding\rust\phase\target\wasm32-unknown-unknown\debug\deps\libslotmap-4d28a98baa332c08.rlib: C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\lib.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\basic.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\dense.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\hop.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\secondary.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\sparse_secondary.rs
+
+E:\coding\rust\phase\target\wasm32-unknown-unknown\debug\deps\slotmap-4d28a98baa332c08.d: C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\lib.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\basic.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\dense.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\hop.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\secondary.rs C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\sparse_secondary.rs
+
+C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\lib.rs:
+C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\basic.rs:
+C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\dense.rs:
+C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\hop.rs:
+C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\secondary.rs:
+C:\Users\v-nor\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\sparse_secondary.rs:
