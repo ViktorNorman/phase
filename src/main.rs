@@ -1,18 +1,22 @@
 use sycamore::prelude::*;
 // use log::debug;
 
-mod kanban;
-use kanban::board::Kanban as Kanban;
+mod main_content;
+use main_content::main_content::MainContent as MainContent;
 
 mod navbar;
 use navbar::navbar::Navbar as Navbar;
+
+mod sidebar;
+use sidebar::sidebar::Sidebar as Sidebar;
 
 
 #[component]
 pub fn App<T: Html>(cx: Scope) -> View<T> {
     view! { cx,
         Navbar{}
-        Kanban{}
+        Sidebar{}
+        MainContent{}
     }
 }
 

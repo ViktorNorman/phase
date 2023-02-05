@@ -1,0 +1,15 @@
+.main-content{
+    grid-area: main-content;
+    height: 50vh;
+    // width: 98vw;
+    color:blue;
+    font-size: 4rem;
+    border: 1px solid red;
+}
+.kanban__task{
+    height: 2rem;
+    width: 2rem;
+    color:blue;
+    font-size: 4rem;
+    border: 1px solid red;
+}
