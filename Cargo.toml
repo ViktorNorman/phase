@@ -9,4 +9,5 @@ edition = "2021"
 log = "0.4"
 console_error_panic_hook = "0.1.7"
 console_log = "0.2.0"
-sycamore = { git = "https://github.com/sycamore-rs/sycamore", rev = "0512e4a6e7e60b6f2611c6984585c90126b69018" }
+sycamore = { version = "0.8.2", features = ["suspense"] }
+sycamore-router = "0.8"

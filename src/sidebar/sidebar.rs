@@ -5,7 +5,7 @@ pub fn Sidebar<T: Html>(cx: Scope) -> View<T> {
     view! { cx,
         div(class="sidebar"){
             div(class="sidebar__top"){
-                div(class="sidebar__header"){
+                a(class="sidebar__header", href="/"){
                     "Phase"
                 }
             }
@@ -13,16 +13,16 @@ pub fn Sidebar<T: Html>(cx: Scope) -> View<T> {
                 div(class="sidebar__views"){
                     "Views"
                     div(class="sidebar__items"){
-                        div(class="sidebar__item"){
+                        a(class="sidebar__item", href="/kanban"){
                             "Kanban board"
                         }
-                        div(class="sidebar__item"){
+                        a(class="sidebar__item", href="/planning"){
                             "Planning"
                         }
-                        div(class="sidebar__item"){
+                        a(class="sidebar__item", href="/dependencies"){
                             "Dependencies"
                         }
-                        div(class="sidebar__item"){
+                        a(class="sidebar__item", href="/change-log"){
                             "Change log"
                         }
                     }
